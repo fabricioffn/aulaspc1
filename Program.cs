@@ -11,6 +11,7 @@ namespace aulaspc1
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("FURIA É BRABA");
            Console.ForegroundColor = ConsoleColor.Gray;
+           Console.ReadLine();
         }
     }
 }
