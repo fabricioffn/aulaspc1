@@ -6,7 +6,11 @@ namespace aulaspc1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("meu primeiro programa salvo no git");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("MIBR PERDEU PRO COL MANOOOOO");
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("FURIA É BRABA");
+           Console.ForegroundColor = ConsoleColor.Gray;
         }
     }
 }
